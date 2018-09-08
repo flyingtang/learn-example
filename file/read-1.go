@@ -7,8 +7,10 @@ import (
 	"os"
 )
 
-func main() {
-	if f, err := os.Open("file/file.txt"); err != nil {
+const filePath = "file.txt"
+
+func readByBuf(){
+	if f, err := os.Open(filePath); err != nil {
 		panic(err.Error())
 	} else {
 		// 关闭
