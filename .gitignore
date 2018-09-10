@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+/04-go-kit/vendor/
+!/04-go-kit/vendor/vendor.json
