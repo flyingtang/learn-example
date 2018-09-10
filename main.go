@@ -1,10 +1,10 @@
 package main
 
-import(
+import (
 	"fmt"
-	"time"
 )
-func main(){
-	t := time.Now()
-	fmt.Println("t", t)
+
+func main() {
+	nums := []int {1, ,2, 3}
+	nums.indexOf
 }
