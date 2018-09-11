@@ -13,3 +13,4 @@
 
 /04-go-kit/vendor/
 !/04-go-kit/vendor/vendor.json
+.idea

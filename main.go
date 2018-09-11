@@ -1,10 +1,7 @@
-package main
+package  main
 
-import (
-	"fmt"
-)
+import "learn-example/11-recype/a"
 
-func main() {
-	nums := []int {1, ,2, 3}
-	nums.indexOf
+func main(){
+	a.Add()
 }
