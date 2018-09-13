@@ -12,10 +12,31 @@ package letcode
 // nums2 = [3, 4]
 // 中位数是 (2 + 3)/2 = 2.5
 
-func findMedianSortedArrays(s1, s2 []int) float64 {
+// func findMedianSortedArrays(s1, s2 []float64, k int) float64 {
 
-	return 0
-}
+// 	s1length := len(s1)
+// 	s2length := len(s2)
+
+// 	// 长度 s1 <= s2
+// 	if s1length > s2length {
+// 		s1, s2 = s2, s1
+// 	}
+
+// 	if s1length == 0 {
+// 		return s2[k-1]
+// 	}
+
+// 	if k == 1 {
+// 		return math.Min(s1[0], s2[0])
+// 	}
+
+// 	pa := math.Min(k/2, s1length), pb := k - pa
+// 	if s1[pa -1 ] < s2[pb - 1] {
+
+// 	}
+
+// 	return 0
+// }
 
 // 归并排序
 // func merge(left, right []int) (res []int) {

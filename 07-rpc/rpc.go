@@ -41,3 +41,4 @@ func NewRpcServer() {
 	}
 	go http.Serve(l, nil)
 }
+
