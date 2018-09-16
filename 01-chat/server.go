@@ -21,7 +21,7 @@ import (
 
 
 
-var clients = map[string]net.Conn
+//var clients = map[string]net.Conn
 
 
 func main() {
