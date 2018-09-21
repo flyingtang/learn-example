@@ -1,4 +1,4 @@
-package letcode
+package _1_字符串数组
 
 import (
 	"fmt"
