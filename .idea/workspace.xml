@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61699d4f-2f45-4851-98c9-32b4524dd4cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/09-有效括号.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-letcode/02-链表/01-反转链表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-letcode/03-数学与数字/01-反转整数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-letcode/04-排序与搜索/01-排序链表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-letcode/05-回溯算法/01-括号生成.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-爬虫简单测试/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-jsonparser/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-自定义切片函数/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-轮流输出A1-Z26/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/line.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/link.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/stack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26-数据结构/queue.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/01-两数之和.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/01-两数之和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/02-两个排序数组的中位数.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/02-两个排序数组的中位数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/03-最长回文子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/03-最长回文子串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/04-字符串转整数.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/04-字符串转整数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/06-最长公共前缀.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/06-最长公共前缀.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/07-三数之和.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/07-三数之和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/08-最接近三数之和.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/08-最接近三数之和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-letcode/1_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-letcode/01-字符串数组/1_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26-数据结构/line.go" beforeDir="false" afterPath="$PROJECT_DIR$/26-数据结构/line.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26-数据结构/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/26-数据结构/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +15,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="queue.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/26-数据结构/queue.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+              <folding>
+                <element signature="e#14#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="link.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26-数据结构/link.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62">
+              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding>
+                <element signature="e#14#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="line.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26-数据结构/line.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+              <folding>
+                <element signature="e#14#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26-数据结构/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,6 +118,9 @@
         <option value="$PROJECT_DIR$/26-线性表/stack.go" />
         <option value="$PROJECT_DIR$/26-线性表/main.go" />
         <option value="$PROJECT_DIR$/26-线性表/line.go" />
+        <option value="$PROJECT_DIR$/26-数据结构/line.go" />
+        <option value="$PROJECT_DIR$/26-数据结构/main.go" />
+        <option value="$PROJECT_DIR$/26-数据结构/queue.go" />
       </list>
     </option>
   </component>
@@ -210,6 +240,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -217,9 +248,9 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.6933333" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.6933333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3272727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -290,18 +321,23 @@
           <line>38</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/26-数据结构/main.go</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/26-数据结构/queue.go</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12-文件上传/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -591,16 +627,6 @@
     <entry file="file://$PROJECT_DIR$/10-letcode/01-字符串数组/07-三数之和.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/26-数据结构/link.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26-数据结构/stack.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -608,20 +634,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/26-数据结构/main.go">
+    <entry file="file://$PROJECT_DIR$/26-数据结构/link.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        <state relative-caret-position="-62">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
           <folding>
-            <element signature="e#14#42#0" expanded="true" />
+            <element signature="e#14#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/26-数据结构/line.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="-2">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26-数据结构/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26-数据结构/queue.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
           <folding>
             <element signature="e#14#41#0" expanded="true" />
           </folding>

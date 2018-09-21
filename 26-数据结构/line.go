@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-const MaxLength = 100
+//const MaxLength = 100
 
 
 type Student struct {
