@@ -1,4 +1,4 @@
-package main
+package 线性结构
 
 import (
 	"errors"
