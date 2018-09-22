@@ -114,12 +114,12 @@ func TreeDepth(c *ChainTree) int {
 // 清空链表 会不会出错
 func ClearTree(c *ChainTree)  {
 
-	// 这里写错了，导致清不掉
+	// 刚开始这里写错了，导致清不掉，如果不理解go的函数值传类型，会想不明白
 	if c != nil{
 		ClearTree(c.left)
 		ClearTree(c.right)
-		c.left = nil
-		c.right = nil
+		c.left = nil  // 特别这里
+		c.right = nil // 特别这里
 		c.Student = Student{}
 	}
 
@@ -205,4 +205,5 @@ func main(){
 //
 //&{{1} 0xc42000a0a0 0xc42000a0c0}
 //====清理树====
-//&{{1} 0xc42000a0a0 0xc42000a0c0}
+//&{{} <nil> <nil>}
+
