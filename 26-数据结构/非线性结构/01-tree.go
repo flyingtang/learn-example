@@ -25,7 +25,7 @@ func NewNode(name string)(c *ChainTree){
 	return c
 }
 
-const MaxLength = 100 // 设置一个循环队列
+//const MaxLength = 100 // 设置一个循环队列
 
 // 层级遍历
 func (ct *ChainTree)LevelTravel(){
@@ -124,50 +124,50 @@ func ClearTree(c *ChainTree)  {
 	}
 
 }
-func main(){
-
-	root := NewNode("1")
-
-	rootLeft := NewNode("2")
-	rootRight := NewNode("3")
-
-	root.left = rootLeft
-	root.right = rootRight
-
-	rootLeftL := NewNode("4")
-	rootLeftR := NewNode("5")
-
-	rootLeft.left = rootLeftL
-	rootLeft.right = rootLeftR
-
-	// 树的深度
-	h := TreeDepth(root)
-	fmt.Println("树的深度： ", h, "\n")
-
-	// 层级遍历
-	fmt.Println("层级遍历: ")
-	root.LevelTravel()
-	fmt.Println("\n")
-
-	fmt.Println("前序遍历: ")
-	DLRTree(root)
-	fmt.Println("\n")
-
-	fmt.Println("中序遍历: ")
-	LDRTree(root)
-	fmt.Println("\n")
-
-	fmt.Println("后序遍历: ")
-	LRDTree(root)
-	fmt.Println("\n")
-
-
-	// 有问题
-	fmt.Println(root)
-	fmt.Println("====清理树====")
-	ClearTree(root)
-	fmt.Println(root)
-}
+//func main(){
+//
+//	root := NewNode("1")
+//
+//	rootLeft := NewNode("2")
+//	rootRight := NewNode("3")
+//
+//	root.left = rootLeft
+//	root.right = rootRight
+//
+//	rootLeftL := NewNode("4")
+//	rootLeftR := NewNode("5")
+//
+//	rootLeft.left = rootLeftL
+//	rootLeft.right = rootLeftR
+//
+//	// 树的深度
+//	h := TreeDepth(root)
+//	fmt.Println("树的深度： ", h, "\n")
+//
+//	// 层级遍历
+//	fmt.Println("层级遍历: ")
+//	root.LevelTravel()
+//	fmt.Println("\n")
+//
+//	fmt.Println("前序遍历: ")
+//	DLRTree(root)
+//	fmt.Println("\n")
+//
+//	fmt.Println("中序遍历: ")
+//	LDRTree(root)
+//	fmt.Println("\n")
+//
+//	fmt.Println("后序遍历: ")
+//	LRDTree(root)
+//	fmt.Println("\n")
+//
+//
+//	// 有问题
+//	fmt.Println(root)
+//	fmt.Println("====清理树====")
+//	ClearTree(root)
+//	fmt.Println(root)
+//}
 //
 //树的深度：  3
 //
