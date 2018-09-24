@@ -102,12 +102,10 @@ func (gm *GraphMatrix)depthTravelOne(n int){
 			gm.depthTravelOne(i)
 		}
 	}
-
 }
 
-//  深度遍历
-func (gm *GraphMatrix) DepthGraphWeigh() {
-
+//  深度遍历 version 1
+func (gm *GraphMatrix) DFS_V1() {
 	// 借用遍历标记
 	// 初始化IsTravel
 	for i := 0; i < gm.VNum; i++{
@@ -121,7 +119,16 @@ func (gm *GraphMatrix) DepthGraphWeigh() {
 			gm.depthTravelOne(i)
 		}
 	}
+}
 
+// DFS 栈方式
+func (gm *GraphMatrix) DFS_Stack() {
+
+
+}
+
+// 用队列的方式 广度遍历
+func (gm *GraphMatrix) BFS_Queue() {
 
 }
 
@@ -170,8 +177,8 @@ func CreateGraphMatrie() error {
 	gm.PrintGraphWeigh()
 
 	// 从第0个开始遍历
-	var index = 0
-	gm.depthTravelOne(index)
+	//var index = 0
+	gm.DFS_V1()
 	return nil
 }
 
