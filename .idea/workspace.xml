@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61699d4f-2f45-4851-98c9-32b4524dd4cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/02-打印n位数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/03-单例模式.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/04-二维数组查找数字.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/05-重建二叉树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/06-Fibonacci.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-interview/02-实现一个栈.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-interview/02_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指offer/01-实现pow函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/27-剑指offer/01-实现pow函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-interview/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-interview/01-map下有序key的value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-interview/1_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-interview/01_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,29 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05-重建二叉树.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27-剑指offer/05-重建二叉树.go">
+      <file leaf-file-name="02_test.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-interview/02_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="238">
+              <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+              <folding>
+                <element signature="e#19#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06-Fibonacci.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27-剑指offer/06-Fibonacci.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
-            </state>
-          </provider>
+      <file leaf-file-name="01_test.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-interview/01_test.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="07-输入一个数二进制1的个数.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go">
+      <file leaf-file-name="02-实现一个栈.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-interview/02-实现一个栈.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            <state relative-caret-position="239">
+              <caret line="88" column="48" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+              <folding>
+                <element signature="e#19#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,7 +107,6 @@
         <option value="$PROJECT_DIR$/26-数据结构/line.go" />
         <option value="$PROJECT_DIR$/26-数据结构/main.go" />
         <option value="$PROJECT_DIR$/26-数据结构/queue.go" />
-        <option value="$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go" />
         <option value="$PROJECT_DIR$/26-数据结构/非线性结构/01-tree.go" />
         <option value="$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go" />
         <option value="$PROJECT_DIR$/剑指offer/01-实现pow函数.go" />
@@ -119,6 +118,9 @@
         <option value="$PROJECT_DIR$/27-剑指offer/Fibonacci.go" />
         <option value="$PROJECT_DIR$/27-剑指offer/06-Fibonacci.go" />
         <option value="$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go" />
+        <option value="$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go" />
+        <option value="$PROJECT_DIR$/05-interview/02-实现一个栈.go" />
+        <option value="$PROJECT_DIR$/05-interview/02_test.go" />
       </list>
     </option>
   </component>
@@ -140,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,13 +153,17 @@
             <path>
               <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-example" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-example" type="462c0819:PsiDirectoryNode" />
               <item name="27-剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,15 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 07-输入一个数二进制1的个数.go">
-    <configuration name="go build 01-tree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="learn" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/26-数据结构/非线性结构/01-tree.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestNewStack_2 in learn-example/05-interview">
     <configuration name="go build 02-图.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -222,65 +221,103 @@
       <filePath value="$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNewStack_2 in learn-example/05-interview" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learn" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/12-文件解析/main.go" />
-      <package value="learn-example" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="TestIsBeyondMax in learn-example/21-redis/LoginRate" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learn" />
-      <working_directory value="$PROJECT_DIR$/21-redis/LoginRate" />
+      <working_directory value="$PROJECT_DIR$/05-interview" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="learn-example/21-redis/LoginRate" />
+      <package value="learn-example/05-interview" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestIsBeyondMax$" />
+      <pattern value="^TestNewStack_2$" />
+    </configuration>
+    <configuration name="TestNewStack_2_v2 in learn-example/05-interview" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <working_directory value="$PROJECT_DIR$/05-interview" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learn-example/05-interview" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewStack_2_v2$" />
+    </configuration>
+    <configuration name="TestStack in learn-example/05-interview" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <working_directory value="$PROJECT_DIR$/05-interview" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learn-example/05-interview" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestStack$" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Test.TestIsBeyondMax in learn-example/21-redis/LoginRate" />
-      <item itemvalue="Go Build.go build 01-tree.go" />
       <item itemvalue="Go Build.go build 02-图.go" />
       <item itemvalue="Go Build.go build 07-输入一个数二进制1的个数.go" />
+      <item itemvalue="Go Test.TestStack in learn-example/05-interview" />
+      <item itemvalue="Go Test.TestNewStack_2_v2 in learn-example/05-interview" />
+      <item itemvalue="Go Test.TestNewStack_2 in learn-example/05-interview" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestNewStack_2 in learn-example/05-interview" />
+        <item itemvalue="Go Test.TestNewStack_2_v2 in learn-example/05-interview" />
+        <item itemvalue="Go Test.TestStack in learn-example/05-interview" />
         <item itemvalue="Go Build.go build 07-输入一个数二进制1的个数.go" />
         <item itemvalue="Go Build.go build 02-图.go" />
-        <item itemvalue="Go Build.go build 01-tree.go" />
-        <item itemvalue="Go Test.TestIsBeyondMax in learn-example/21-redis/LoginRate" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestIsBeyondMax_in_learn-example_21-redis_LoginRate - 2018.09.16 at 10h 27m 22s.xml">
-      <configuration name="TestIsBeyondMax in learn-example/21-redis/LoginRate" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 00m 54s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestIsBeyondMax_in_learn-example_21-redis_LoginRate - 2018.09.16 at 10h 27m 54s.xml">
-      <configuration name="TestIsBeyondMax in learn-example/21-redis/LoginRate" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 00m 58s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 01m 02s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 01m 07s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 01m 34s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 01m 44s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 02m 41s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStack_in_learn-example_05-interview - 2018.09.27 at 19h 13m 05s.xml">
+      <configuration name="TestStack in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNewStack_2_v2_in_learn-example_05-interview - 2018.09.27 at 19h 16m 02s.xml">
+      <configuration name="TestNewStack_2_v2 in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestNewStack_2_in_learn-example_05-interview - 2018.09.27 at 19h 23m 03s.xml">
+      <configuration name="TestNewStack_2 in learn-example/05-interview" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.29090908" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.29090908" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4557576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34424242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48242423" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2969697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45333335" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -363,121 +400,103 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>61</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>76</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>83</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>84</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>86</line>
-          <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>82</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go</url>
           <line>87</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/05-interview/02-实现一个栈.go</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/05-interview/02-实现一个栈.go</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/05-interview/02-实现一个栈.go</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/05-interview/02-实现一个栈.go</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/05-interview/02-实现一个栈.go</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="67" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/18-内存模型/2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-sync/sync.once.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/net/dial.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="655" column="27" selection-start-line="655" selection-start-column="24" selection-end-line="655" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19-slice/1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/net/http/fs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12-文件解析/static/1.css" />
     <entry file="file:///usr/local/go/src/net/http/server.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -656,9 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,9 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,16 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/go/src/runtime/panic.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -717,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1632">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,21 +764,71 @@
     <entry file="file://$PROJECT_DIR$/27-剑指offer/05-重建二叉树.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/27-剑指offer/06-Fibonacci.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        <state relative-caret-position="480">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/27-剑指offer/07-输入一个数二进制1的个数.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interview/变相约瑟夫环面试题微软解法.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+          <folding>
+            <element signature="e#14#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interview/01-map下有序key的value.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#20#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/sync/waitgroup.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interview/01_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interview/02-实现一个栈.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="88" column="48" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+          <folding>
+            <element signature="e#19#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interview/02_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+          <folding>
+            <element signature="e#19#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

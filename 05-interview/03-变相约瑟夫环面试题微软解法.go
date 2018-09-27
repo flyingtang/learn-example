@@ -1,4 +1,4 @@
-package main
+package interview
 
 import (
 	"container/list"
@@ -58,13 +58,13 @@ func PrintList(l *list.List) {
 	}
 }
 // 约瑟夫环入口
-func main() {
-	fmt.Println("----====joseph run====----")
-	var n int = 12
-	array := make_array(n)
-	PrintList(array)
-	mid_array := count_mid_array(array)
-	PrintList(mid_array)
-	fin_array := trans_array(n, mid_array)
-	PrintList(fin_array)
-}
+//func main() {
+//	fmt.Println("----====joseph run====----")
+//	var n int = 12
+//	array := make_array(n)
+//	PrintList(array)
+//	mid_array := count_mid_array(array)
+//	PrintList(mid_array)
+//	fin_array := trans_array(n, mid_array)
+//	PrintList(fin_array)
+//}
