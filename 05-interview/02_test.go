@@ -78,7 +78,7 @@ func TestNewStack_2(t *testing.T) {
 
 			}
 
-			for i := 0; i < count; i++ {
+			for i := 0; i < count+1; i++ {
 				go func() {
 					s2.pop_2()
 				}()

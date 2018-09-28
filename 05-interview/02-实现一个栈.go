@@ -87,9 +87,13 @@ func NewStack_2() (s2 *Stack_2) {
 						s2.data = append(s2.data, cd.value)
 					case "pop":
 						s2length := len(s2.data)
-						t := s2.data[s2length-1]
-						s2.data = s2.data[:s2length-1]
-						s2.out <- t
+						if s2length > 0{
+							t := s2.data[s2length-1]
+							s2.data = s2.data[:s2length-1]
+							s2.out <- t
+						}else{
+							fmt.Println("栈已经空啦")
+						}
 					}
 				}
 			}
