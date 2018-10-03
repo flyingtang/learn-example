@@ -45,6 +45,8 @@ func (ct *ChainTree)LevelTravel(){
 		tail = (tail+1) % MaxLength
 		queue[tail] = ctTemp
 	}
+
+	//  运用队列
 	for head != tail {
 
 		head = (head + 1) % MaxLength

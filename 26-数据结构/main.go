@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
-
 const MaxLength = 3
 
-func main()  {
+//func main()  {
 
 
  	//ss := 	NewStudentList()
@@ -46,24 +44,24 @@ func main()  {
 	//fmt.Println(nql.OutQueue())
 	//fmt.Println(nql.OutQueue())
 	//fmt.Println("\n")
-
-	nql := NewQueueLine()
-	fmt.Println(nql.IntLoopQueue(&Student{"ooo1", 11}))
-	fmt.Println(nql.IntLoopQueue(&Student{"ooo2", 11}))
-	fmt.Println(nql.IntLoopQueue(&Student{"ooo3", 11}))
-
-	nql.Travel()
-	fmt.Println("\n")
-	fmt.Println(nql.OutLoopQueue())
-	nql.Travel()
-	fmt.Println("\n")
-	fmt.Println(nql.IntLoopQueue(&Student{"ooo3", 11}))
-	nql.Travel()
-	fmt.Println("\n")
-	fmt.Println(nql.OutLoopQueue())
-	fmt.Println(nql.OutLoopQueue())
-	nql.Travel()
-	fmt.Println("\n")
+	//
+	//nql := NewQueueLine()
+	//fmt.Println(nql.IntLoopQueue(&Student{"ooo1", 11}))
+	//fmt.Println(nql.IntLoopQueue(&Student{"ooo2", 11}))
+	//fmt.Println(nql.IntLoopQueue(&Student{"ooo3", 11}))
+	//
+	//nql.Travel()
+	//fmt.Println("\n")
+	//fmt.Println(nql.OutLoopQueue())
+	//nql.Travel()
+	//fmt.Println("\n")
+	//fmt.Println(nql.IntLoopQueue(&Student{"ooo3", 11}))
+	//nql.Travel()
+	//fmt.Println("\n")
+	//fmt.Println(nql.OutLoopQueue())
+	//fmt.Println(nql.OutLoopQueue())
+	//nql.Travel()
+	//fmt.Println("\n")
 	//fmt.Println("\n")
 
-}
+//}

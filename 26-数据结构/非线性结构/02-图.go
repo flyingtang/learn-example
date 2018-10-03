@@ -182,13 +182,13 @@ func CreateGraphMatrie() error {
 	return nil
 }
 
-func main() {
-
-	if err := CreateGraphMatrie(); err != nil {
-		fmt.Println(err.Error())
-	}
-
-}
+//func main() {
+//
+//	if err := CreateGraphMatrie(); err != nil {
+//		fmt.Println(err.Error())
+//	}
+//
+//}
 // 结果
 //A       B       C       D
 //A       0       3       1       1
