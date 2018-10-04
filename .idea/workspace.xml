@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61699d4f-2f45-4851-98c9-32b4524dd4cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/03-图.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/priorityqueue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/queue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/stack.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-copy/datadog/datalog.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-copy/datadog/internal/queue/queue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-copy/datadog/internal/queue/queue_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-java常用算法/01-约瑟夫环.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-java常用算法/01_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-java常用算法/02-复杂的约瑟夫问题.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-java常用算法/03-城市之间最短总距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-sort/bubble-sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-sort/sort_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-sync/syncmap.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-数据结构/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/26-数据结构/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-数据结构/非线性结构/01-树.go" beforeDir="false" afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/01-树.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go" beforeDir="false" afterPath="$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-sync/sync.once.go" beforeDir="false" afterPath="$PROJECT_DIR$/20-sync/sync.once.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,74 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-图.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/03-图.go">
+      <file leaf-file-name="syncmap.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20-sync/syncmap.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="106" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
-                <element signature="e#14#41#0" expanded="true" />
+                <element signature="e#14#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="priorityqueue.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/priorityqueue.go">
+      <file leaf-file-name="sync.once.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20-sync/sync.once.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-              <folding>
-                <element signature="e#14#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bits.go" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/go/src/math/bits.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/queue.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stack.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/stack.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02-图.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/02-图.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447">
-              <caret line="118" column="23" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
-              <folding>
-                <element signature="e#32#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" selection-start-line="9" selection-end-line="30" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -119,15 +58,15 @@
       <find>length</find>
       <find>errorQueueClosed</find>
       <find>deleteNum</find>
-      <find>Queue</find>
       <find>string</find>
+      <find>Queue</find>
     </findStrings>
     <replaceStrings>
       <replace>Length</replace>
       <replace>student</replace>
       <replace>ErrorQueueClosed</replace>
-      <replace>Stack</replace>
       <replace>popNum</replace>
+      <replace>Stack</replace>
     </replaceStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
@@ -137,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12-文件解析/main.go" />
-        <option value="$PROJECT_DIR$/12-文件解析/static/index.html" />
-        <option value="$PROJECT_DIR$/13-定时任务/main.go" />
-        <option value="$PROJECT_DIR$/12-文件上传/main.go" />
         <option value="$PROJECT_DIR$/21-redis/LoginRate/lr.go" />
         <option value="$PROJECT_DIR$/21-redis/LoginRate/lr_test.go" />
         <option value="$PROJECT_DIR$/01-chat/server.go" />
@@ -188,6 +123,10 @@
         <option value="$PROJECT_DIR$/26-数据结构/main.go" />
         <option value="$PROJECT_DIR$/26-数据结构/非线性结构/03-图.go" />
         <option value="$PROJECT_DIR$/26-数据结构/非线性结构/priorityqueue.go" />
+        <option value="$PROJECT_DIR$/08-sort/bubble-sort.go" />
+        <option value="$PROJECT_DIR$/08-sort/sort_test.go" />
+        <option value="$PROJECT_DIR$/20-sync/sync.once.go" />
+        <option value="$PROJECT_DIR$/20-sync/syncmap.go" />
       </list>
     </option>
   </component>
@@ -220,23 +159,7 @@
             <path>
               <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-example" type="462c0819:PsiDirectoryNode" />
-              <item name="25-轮流输出A1-Z26" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-example" type="462c0819:PsiDirectoryNode" />
-              <item name="26-数据结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-example" type="462c0819:PsiDirectoryNode" />
-              <item name="26-数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="非线性结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-example" type="462c0819:PsiDirectoryNode" />
-              <item name="29-java常用算法" type="462c0819:PsiDirectoryNode" />
+              <item name="20-sync" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,16 +306,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.29090908" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.25939393" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26909092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3430303" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3430303" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34060606" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -551,45 +475,11 @@
           <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/26-数据结构/非线性结构/priorityqueue.go</url>
-          <line>120</line>
-          <properties />
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="93" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/22-爬虫简单测试/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23-jsonparser/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24-自定义切片函数/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25-轮流输出A1-Z26/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10-letcode/01-字符串数组/1_test.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -883,7 +773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/queue.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="473">
           <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
@@ -912,12 +802,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08-sort/bubble-sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-sort/sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/26-数据结构/非线性结构/priorityqueue.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="357">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-sync/sync.once.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-sync/syncmap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
-            <element signature="e#14#49#0" expanded="true" />
+            <element signature="e#14#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
