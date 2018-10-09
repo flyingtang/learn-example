@@ -7,7 +7,6 @@ import (
 var graph map[string][]string
 
 
-// 不考虑线程安全问题
 func NewGraph(){
 
 	graph = make(map[string][]string)

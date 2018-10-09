@@ -119,7 +119,6 @@ func Dijkstra(s string) (map[string]string, map[string]int) {
 					parent[key] = vetex
 					distance[key] = dis + pqGraph[vetex][key]
 					heap.Push(&queue, &Item{value: key, priority: dis + pqGraph[vetex][key]})
-
 				}
 
 			}

@@ -35,3 +35,6 @@ func TestYosephus(t *testing.T)  {
 
 }
 
+func TestFindAllNumber(t *testing.T) {
+	FindAllNumber(10000000)
+}

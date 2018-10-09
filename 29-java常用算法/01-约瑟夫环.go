@@ -41,11 +41,11 @@ func yosephus(alive uint8) error {
 		people[pos] = count
 		fmt.Printf("第 %2d 个人自杀，约瑟夫环编号为 %2d \t", count, pos+1)
 		if count % 3 == 0{
-			fmt.Println("\n")
+			fmt.Println()
 		}
 	}
 
-	fmt.Println("\n")
+	fmt.Println()
 	// 第三步 输出结果
 	alive = numAll - alive
 	for i := 0; i < numAll; i++ {
